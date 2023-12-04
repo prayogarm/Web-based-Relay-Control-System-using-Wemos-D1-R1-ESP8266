@@ -22,6 +22,4 @@ Control relays remotely using HTTP requests with Postman for testing purposes, f
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/prayogarm/your-repo.git
-   cd your-repo
-
+   git clone https://github.com/prayogarm/Web-based-Relay-Control-System-using-Wemos-D1-R1-ESP8266.git
